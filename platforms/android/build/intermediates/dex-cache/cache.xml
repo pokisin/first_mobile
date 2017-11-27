@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_100828acbc9a0bda8aef7f37becef155f3b7cfd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_18aaf56a5fc8c768768426f3cca20bf752f929c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73cd8dda122fb99d8649f5409d7e8ad6de932856">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_ce6d498d4de50f145ddaf82ae97fb0caa57c0a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_3b9993dfa3f0375f1cb055de88272aa0f31a91e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_e9d14ebe9bb25a32cfceea7eea3ad691b3877331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_156e37a2d76840723c32acb0bb71bd3194d90a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_9d2b043bb5d4158c2bd706239d17a4e5050001b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_e00d13848eddbd3948528d0315868b88c60e3ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_579b60685948a0c524aa4326bfc082207c1bdd2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_a778aeb646d9e61d6e88f4b4842ef05804281bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_6aa94471dacd898be79fbdd6ecae3d2955f73b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_71c3044849bfa415dd86816d289fbcdcee058576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_e577a648f18b3a9d51b8d9dd2884739019a6fd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_384a62dd419816ba1b7bc968d71175b4bb986461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Dell Touch\Documents\nativescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_1249a8bf16309388c8664934cfa86b75092a20e6.jar" />
+    </item>
+
+</items>
